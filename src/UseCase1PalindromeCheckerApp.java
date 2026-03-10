@@ -2,7 +2,7 @@
  * UC1: Application Entry & Welcome Message
  * This class serves as the container for the Palindrome Checker logic.
  */
-public class PalindromeCheckerApp {
+public class UseCase1PalindromeCheckerApp {
 
     // Version constant - demonstrates the use of static/final for app metadata
     private static final String VERSION = "1.0.0";
